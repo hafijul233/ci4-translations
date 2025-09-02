@@ -117,3 +117,6 @@ read on the tests' [README](tests/README.md) on running unit tests.
 ## License
 
 These translations are licensed under the [MIT License](LICENSE).
+
+
+<!-- Security scan triggered at 2025-09-02 04:44:59 -->
